@@ -154,6 +154,12 @@ The full dataset (used for actual processing) is available here:
 
 
 
+In case there is any issue in running notebook/accessing data , here is the link for the entire folder 
+
+[Vaibhavi\_Satellite\_Assignment](https://drive.google.com/drive/folders/1z0h7cmuNGaaGXISQdsFVWcRAIlUSjBGF?usp=sharing)
+
+
+
 ##### **Code Adaptability**
 
 
