@@ -1,6 +1,5 @@
 # Ignore only large raw data
 data/sentinel_downloads/
-*.tif
 *.zip
 *.rar
 *.7z
