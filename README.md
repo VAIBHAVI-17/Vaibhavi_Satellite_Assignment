@@ -8,6 +8,24 @@ The workflow involves geospatial data handling, raster processing, and setting u
 
 
 
+**Note: To reduce repository size and ensure compatibility with GitHub notebook rendering, the Google Colab has cleared outputs. Interactive maps, large images, and TIFF outputs are not included.**
+
+
+
+
+
+**All outputs, including maps and processed images, are generated when the notebook is run.**
+
+
+
+**The notebook is cleaned for GitHub rendering; running it locally is required to see full interactive outputs.**
+
+
+
+**This approach ensures GitHub correctly displays the notebook without metadata errors.**
+
+
+
 ##### **Project Structure**
 
 
@@ -56,7 +74,7 @@ The workflow involves geospatial data handling, raster processing, and setting u
 
 
 
-Steps Completed: 
+Steps Completed:
 
 
 
@@ -159,6 +177,4 @@ Local/GitHub (demo dataset)
 Vaibhavi Tiwari
 
 Project for JRF Application – IIT Gandhinagar
-
-
 
