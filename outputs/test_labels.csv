@@ -1,0 +1,41 @@
+filename,lat,lon,mode_class,confidence
+data sentinel_downloads tile_28.2057_77.5112.tif,28.2057,77.5112,40,0.94
+data sentinel_downloads tile_28.2057_77.6261.tif,28.2057,77.6261,40,0.996
+data sentinel_downloads tile_28.2172_76.8902.tif,28.2172,76.8902,40,0.45
+data sentinel_downloads tile_28.2057_77.6146.tif,28.2057,77.6146,40,0.949
+data sentinel_downloads tile_28.2057_77.6376.tif,28.2057,77.6376,40,0.994
+data sentinel_downloads tile_28.2057_77.2812.tif,28.2057,77.2812,40,0.89
+data sentinel_downloads tile_28.2057_77.5916.tif,28.2057,77.5916,40,0.981
+data sentinel_downloads tile_28.2172_77.0972.tif,28.2172,77.0972,40,0.904
+data sentinel_downloads tile_28.2057_77.2467.tif,28.2057,77.2467,40,0.844
+data sentinel_downloads tile_28.2057_77.5572.tif,28.2057,77.5572,40,0.907
+data sentinel_downloads tile_28.2172_76.9822.tif,28.2172,76.9822,40,0.845
+data sentinel_downloads tile_28.2172_77.1777.tif,28.2172,77.1777,40,0.8
+data sentinel_downloads tile_28.2172_77.1432.tif,28.2172,77.1432,40,0.703
+data sentinel_downloads tile_28.2172_76.8672.tif,28.2172,76.8672,40,0.75
+data sentinel_downloads tile_28.2172_77.0742.tif,28.2172,77.0742,40,0.79
+data sentinel_downloads tile_28.2057_77.1777.tif,28.2057,77.1777,40,0.935
+data sentinel_downloads tile_28.2057_77.4537.tif,28.2057,77.4537,40,0.774
+data sentinel_downloads tile_28.2057_77.3502.tif,28.2057,77.3502,40,0.784
+data sentinel_downloads tile_28.2057_77.4882.tif,28.2057,77.4882,40,0.963
+Copy of data sentinel_downloads tile_28.2057_76.8672.tif,28.2057,76.8672,50,0.418
+data sentinel_downloads tile_28.2172_77.1087.tif,28.2172,77.1087,40,0.765
+Copy of data sentinel_downloads tile_28.2057_77.3387.tif,28.2057,77.3387,40,0.939
+data sentinel_downloads tile_28.2172_76.9017.tif,28.2172,76.9017,40,0.654
+data sentinel_downloads tile_28.2057_77.4192.tif,28.2057,77.4192,40,0.894
+data sentinel_downloads tile_28.2057_77.5457.tif,28.2057,77.5457,40,0.958
+data sentinel_downloads tile_28.2172_76.8557.tif,28.2172,76.8557,40,0.703
+data sentinel_downloads tile_28.2057_77.1547.tif,28.2057,77.1547,40,0.729
+data sentinel_downloads tile_28.2057_77.1317.tif,28.2057,77.1317,40,0.409
+data sentinel_downloads tile_28.2172_77.0167.tif,28.2172,77.0167,40,0.94
+data sentinel_downloads tile_28.2172_77.1662.tif,28.2172,77.1662,40,0.875
+data sentinel_downloads tile_28.2057_77.0627.tif,28.2057,77.0627,40,0.79
+data sentinel_downloads tile_28.2172_77.0282.tif,28.2172,77.0282,40,0.838
+data sentinel_downloads tile_28.2057_76.8902.tif,28.2057,76.8902,40,0.429
+data sentinel_downloads tile_28.2057_77.1432.tif,28.2057,77.1432,50,0.662
+Copy of data sentinel_downloads tile_28.2057_77.5686.tif,28.2057,77.5686,40,0.974
+data sentinel_downloads tile_28.2172_77.1547.tif,28.2172,77.1547,40,0.599
+data sentinel_downloads tile_28.2057_77.6491.tif,28.2057,77.6491,40,0.974
+data sentinel_downloads tile_28.2057_76.8557.tif,28.2057,76.8557,50,0.402
+data sentinel_downloads tile_28.2057_76.9017.tif,28.2057,76.9017,40,0.409
+data sentinel_downloads tile_28.2057_77.5342.tif,28.2057,77.5342,40,0.967
